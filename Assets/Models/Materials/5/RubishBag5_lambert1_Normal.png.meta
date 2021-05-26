@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream:Assets/Textures/Technologies sign textures/Technologies sign_lambert1_Normal.png.meta
-guid: eea00a29a2000c14a88e8507db45d21b
-=======
-guid: 78133f106144a4b42a91d2c3b902c034
->>>>>>> Stashed changes:Assets/Models/Materials/2/RubishBag2_lambert1_BaseMap.png.meta
+guid: 858f5c67d63e4bc4ea9d47ec3843356c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -69,18 +65,6 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
