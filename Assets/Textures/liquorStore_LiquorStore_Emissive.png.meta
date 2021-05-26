@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream:Assets/Textures/Technologies sign textures/Technologies sign_lambert1_BaseMap.png.meta
-guid: e88d9eb36ea9f5442921f6e2a589b19c
-=======
-guid: 2b63389ce41b44c4bab7a8a5eb43789e
->>>>>>> Stashed changes:Assets/Models/Materials/2/RubishBag2_lambert1_MaskMap.png.meta
+guid: 8d4fd45342af44042957277d378748d2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
